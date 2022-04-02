@@ -1,16 +1,9 @@
 package com.myastrebov.leetcode.array;
 
-import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.converter.ArgumentConversionException;
-import org.junit.jupiter.params.converter.ConvertWith;
-import org.junit.jupiter.params.converter.SimpleArgumentConverter;
 import org.junit.jupiter.params.provider.Arguments;
-import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.stream.Stream;
 
 import static java.lang.String.format;
@@ -25,7 +18,7 @@ class RotateArrayTest {
     private final RotateArray uut = new RotateArray();
 
 
-    @MethodSource("argumetsSource")
+    @MethodSource("argumentsSource")
     @ParameterizedTest
     void shouldRotateToTheRight(int steps, int[] expectedArray) {
         int[] array = {1, 2, 3, 4, 5, 6, 7};
@@ -33,7 +26,7 @@ class RotateArrayTest {
         assertArrayEquals(expectedArray, array);
     }
 
-    static Stream<Arguments> argumetsSource() {
+    private static Stream<Arguments> argumentsSource() {
         return Stream.of(
                 arguments(1, new int[]{7, 1, 2, 3, 4, 5, 6}),
                 arguments(2, new int[]{6, 7, 1, 2, 3, 4, 5}),
