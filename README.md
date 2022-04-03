@@ -52,3 +52,8 @@ It is Repository with solutions for leetcode problems
   * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/ReverseLinkedList.java)
 * [ Merge Two Sorted Lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/)
   * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/MergeTwoSortedLists.java)
+* [ Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)
+  * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/LinkedListCycle.java)
+* [ Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)
+  * [Solution #1](src/main/java/com/myastrebov/leetcode/linkedlist/PalindromeLinkedListWithAdditionalSpace.java)
+  * [Solution #2](src/main/java/com/myastrebov/leetcode/linkedlist/PalindromeLinkedWithReverse.java)
