@@ -50,3 +50,5 @@ It is Repository with solutions for leetcode problems
   * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/RemoveNthNodeFromEndOfList.java)
 * [ Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)
   * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/ReverseLinkedList.java)
+* [ Merge Two Sorted Lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/)
+  * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/MergeTwoSortedLists.java)
