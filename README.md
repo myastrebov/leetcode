@@ -42,3 +42,7 @@ It is Repository with solutions for leetcode problems
   * [Solution](src/main/java/com/myastrebov/leetcode/string/ReverseString.java)
 * [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
   * [Solution](src/main/java/com/myastrebov/leetcode/string/ReverseInteger.java)
+
+## Linked list
+* [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)
+  * [Solution](src/main/java/com/myastrebov/leetcode/linkedlist/DeleteNodeInLinkedList.java)
