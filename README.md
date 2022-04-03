@@ -36,3 +36,9 @@ It is Repository with solutions for leetcode problems
   * [solution](src/main/java/com/myastrebov/leetcode/tree/BinaryTreeLevelOrderTraversal.java)
 * [Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)
   * [solution](src/main/java/com/myastrebov/leetcode/tree/ConvertSortedArrayToBinarySearchTree.java)
+
+## Strings
+* [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
+  * [Solution](src/main/java/com/myastrebov/leetcode/string/ReverseString.java)
+* [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
+  * [Solution](src/main/java/com/myastrebov/leetcode/string/ReverseInteger.java)
