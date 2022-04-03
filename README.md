@@ -57,3 +57,7 @@ It is Repository with solutions for leetcode problems
 * [ Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)
   * [Solution #1](src/main/java/com/myastrebov/leetcode/linkedlist/PalindromeLinkedListWithAdditionalSpace.java)
   * [Solution #2](src/main/java/com/myastrebov/leetcode/linkedlist/PalindromeLinkedWithReverse.java)
+
+## Search
+* [Binary search](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)
+  * [Solution](src/main/java/com/myastrebov/leetcode/search/FindFirstBadVersion.java)
